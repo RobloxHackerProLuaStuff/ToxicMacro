@@ -1,8 +1,8 @@
 # ToxicMacro
 Default keybind for the macro : "y"
-Probably the simpliest GUI I've ever made so yeah might even release the source. Who knows.
--
-Ok so for the setup you need to first choose the message that you want the script to send once you press the keybind.   
+Probably the simpliest GUI I've ever made to the point where I publish its source.
+- Here's a tutorial on how to setup the macro:    
+First, choose the message that you want the script to send once you press the keybind.   
 
 ![Screenshot 2022-06-01 195025](https://user-images.githubusercontent.com/86840871/171470171-a656bab6-ca17-4405-9d28-a82b10125a35.png)
 -
