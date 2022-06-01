@@ -16,3 +16,6 @@ It'll open a new ui called Settings and there you can change 2 things: The keybi
 
 Further versions will come with further updates so yeah stay tuned I guess.
 
+Source: https://link-center.net/223858/universal-macro
+
+And yes it's linkvertise. Deal with it ¯\_(ツ)_/¯.
